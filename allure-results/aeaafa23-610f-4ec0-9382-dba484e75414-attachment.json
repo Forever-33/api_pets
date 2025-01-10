@@ -1,0 +1,18 @@
+{
+    "id": 3184,
+    "category": {
+        "id": 3184,
+        "name": "string"
+    },
+    "name": "Richard Quinn",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+            "id": 3184,
+            "name": "string"
+        }
+    ],
+    "status": "available"
+}
